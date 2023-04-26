@@ -7,13 +7,16 @@
 - 🔭 I’m currently working on:
   - Implementing more features for [The Turnip Stalk Market](https://github.com/nezcodin/The-Turnip-Stalk-Market)
   - Refactoring some old projects (starting with [Animeto](https://github.com/nezcodin/Animeto)!)
-  - 
+
+
 - 🌱 I’m currently learning:
   - Typescript
+
 
 - 📫 How to reach me:
   - :incoming_envelope: ch.fusco104@gmail.com
   - :woman_technologist: [LinkedIn](https://www.linkedin.com/in/charlottefusco/)
+
 
 - ⚡ Fun facts:
   - :dog::cat: Huge animal lover and have 1 chihuahua and 3 cats!
