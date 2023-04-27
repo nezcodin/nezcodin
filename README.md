@@ -19,6 +19,6 @@
 
 
 - ⚡ Fun facts:
-  - :dog::cat: Huge animal lover and have 1 chihuahua and 3 cats!
+  - :dog::cat: Huge animal lover with 1 chihuahua and 3 cats!
   - :herb: Obsessed with plants (currently monstera and pothos)
   - :video_game: Enjoy playing video games (currently playing FF7 and P5R)
