@@ -11,6 +11,7 @@
 
 - 🌱 I’m currently learning:
   - Typescript
+  - Next.js
 
 
 - 📫 How to reach me:
